@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Raghav+Kapoor;Computer+Science+Student;Python+%7C+Machine+Learning+%7C+Computer+Vision;Building+things+that+actually+ship." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Raghav+Kapoor;Computer+Science+Student;Python+%7C+Machine+Learning+%7C+Computer+Vision;Building+things+that+actually+ship." alt="Typing SVG" />
+
+<br>
+
+<a href="https://leetcode.com/u/raghav_206/">
+  <img src="https://img.shields.io/badge/LeetCode-raghav__206-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://github.com/raghavkp2006-ux">
+  <img src="https://img.shields.io/badge/GitHub-raghavkp2006--ux-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
-<p align="center">
-  <a href="https://leetcode.com/u/raghav_206/"><img src="https://img.shields.io/badge/LeetCode-raghav__206-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://github.com/raghavkp2006-ux"><img src="https://img.shields.io/badge/GitHub-raghavkp2006--ux-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<br>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
-
-<h3 align="center">💡 About Me</h3>
+<h3 align="center">About Me</h3>
 
 <p align="center">
 Computer Science student focused on Python development, machine learning, and computer vision.<br>
 I enjoy turning research ideas into working systems — from signal-processing math to deployed ML pipelines —<br>
-and I spend my downtime sharpening problem-solving skills through competitive programming.
+and I sharpen problem-solving skills through consistent competitive programming practice.
 </p>
 
 <div align="center">
@@ -29,13 +29,13 @@ and I spend my downtime sharpening problem-solving skills through competitive pr
 
 </div>
 
-<h3 align="center">🎯 Current Goals</h3>
+<h3 align="center">Current Goals</h3>
 
 <p align="center">
-🔹 Deepen expertise in Machine Learning and Computer Vision<br>
-🔹 Solve DSA problems consistently on LeetCode<br>
-🔹 Build and ship well-documented, production-style ML projects<br>
-🔹 Contribute to open-source Python/ML repositories
+Deepen expertise in Machine Learning and Computer Vision<br>
+Solve DSA problems consistently on LeetCode<br>
+Build and ship well-documented, production-style ML projects<br>
+Contribute to open-source Python/ML repositories
 </p>
 
 <div align="center">
@@ -44,7 +44,7 @@ and I spend my downtime sharpening problem-solving skills through competitive pr
 
 </div>
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
 
@@ -58,43 +58,35 @@ and I spend my downtime sharpening problem-solving skills through competitive pr
 
 </div>
 
-<h3 align="center">🚀 Featured Projects</h3>
+<h3 align="center">Featured Projects</h3>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-**🖼️ SVD Image Compressor**
+**SVD Image Compressor**
 
-Adaptive-rank image compression system built on randomized Singular Value Decomposition, deployed via Flask. Uses a learned rank predictor to replace heuristic rank selection with a data-driven model, alongside a block-variance prescreening pipeline for efficiency.
-
-</td>
-<td width="50%">
-
-**🍽️ Poly_Taste**
-
-Explainable multi-domain recommendation engine spanning movies, books, music, e-commerce, and anime/TV. Built on a two-tower neural network architecture with an LLM-based agent layer for natural language queries and human-readable recommendation explanations.
+Adaptive-rank image compression system built on randomized Singular Value Decomposition, deployed via Flask. Uses a learned rank predictor (trained to replace heuristic rank selection) plus a block-variance prescreening pipeline for efficiency.
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-**🧱 Crack Detection using CNN**
+**Poly_Taste**
 
-Deep learning pipeline for automated structural crack detection from images, applying convolutional neural networks to a computer vision classification task — aimed at real-world infrastructure inspection use cases.
+Explainable multi-domain recommendation engine spanning movies, books, music, e-commerce, and anime/TV. Built on a two-tower neural network architecture with an LLM-based agent layer for natural language queries and human-readable explanations.
 
 </td>
-<td width="50%" valign="middle">
+<td width="33%" valign="top">
 
-<div align="center">
-<i>More projects on my GitHub profile →</i><br>
-<a href="https://github.com/raghavkp2006-ux?tab=repositories"><b>View all repositories</b></a>
-</div>
+**Crack Detection using CNN**
+
+Deep learning pipeline for automated structural crack detection from images, applying convolutional neural networks to a computer vision classification task aimed at real-world infrastructure inspection.
 
 </td>
 </tr>
 </table>
+
+<p align="center"><i><a href="https://github.com/raghavkp2006-ux?tab=repositories">View all repositories →</a></i></p>
 
 <div align="center">
 
@@ -102,7 +94,7 @@ Deep learning pipeline for automated structural crack detection from images, app
 
 </div>
 
-<h3 align="center">📊 GitHub Analytics</h3>
+<h3 align="center">GitHub Analytics</h3>
 
 <div align="center">
 
@@ -113,7 +105,7 @@ Deep learning pipeline for automated structural crack detection from images, app
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavkp2006-ux&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=raghavkp2006-ux&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
