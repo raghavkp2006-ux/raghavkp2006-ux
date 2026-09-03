@@ -96,18 +96,18 @@ Deep learning pipeline for automated structural crack detection from images, app
 
 <h3 align="center">GitHub Analytics</h3>
 
-<div align="center">
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=raghavkp2006-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavkp2006-ux&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=raghavkp2006-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavkp2006-ux&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<p align="center">
+  <img width="600" src="https://streak-stats.demolab.com/?user=raghavkp2006-ux&theme=tokyonight&hide_border=true" />
+</p>
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=raghavkp2006-ux&theme=tokyonight&hide_border=true" width="70%" />
-
-</div>
+<p align="center">
+  <img width="750" src="https://github-readme-activity-graph.vercel.app/graph?username=raghavkp2006-ux&theme=tokyo-night&hide_border=true" />
+</p>
 
 <div align="center">
 
