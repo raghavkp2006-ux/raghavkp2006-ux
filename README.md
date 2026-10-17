@@ -13,7 +13,7 @@ Computer Science Student • Python Developer • Machine Learning Enthusiast
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student
+- 🎓 Electronics and Communication Student
 - 🐍 Interested in Python Development
 - 🤖 Exploring Machine Learning & Computer Vision
 - 🧩 Regularly solving DSA problems on LeetCode
